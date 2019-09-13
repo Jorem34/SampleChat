@@ -1,0 +1,27 @@
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\bin\Debug\chattesting.exe.config
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\obj\Debug\chattesting.csprojResolveAssemblyReference.cache
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\obj\Debug\chattesting.Form1.resources
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\obj\Debug\chattesting.Properties.Resources.resources
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\obj\Debug\chattesting.csproj.GenerateResource.Cache
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\bin\Debug\chattesting.exe
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\bin\Debug\chattesting.pdb
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\obj\Debug\chattesting.exe
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\obj\Debug\chattesting.pdb
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\bin\Debug\chattesting.exe.manifest
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\bin\Debug\chattesting.application
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\obj\Debug\chattesting.exe.manifest
+C:\Users\ramir\Documents\Visual Studio 2012\Projects\chattesting\chattesting\obj\Debug\chattesting.application
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\bin\Debug\chattesting.exe.config
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\bin\Debug\chattesting.exe.manifest
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\bin\Debug\chattesting.application
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\bin\Debug\chattesting.exe
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\bin\Debug\chattesting.pdb
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.csprojAssemblyReference.cache
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.Form1.resources
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.Properties.Resources.resources
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.csproj.GenerateResource.cache
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.exe.manifest
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.application
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.exe
+C:\Users\ramir\Documents\Visual Studio 2012\non jamci system\chattesting\chattesting\obj\Debug\chattesting.pdb
